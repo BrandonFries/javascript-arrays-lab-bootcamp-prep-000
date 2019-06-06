@@ -24,6 +24,6 @@ function prependKitten(Arnold) {
   return theCats
 }
 function removeLastKitten(Garfield) {
-  var lessKittens = kittens.slice(Milo, Otis);
+  var lessKittens = kittens.slice(0, 2);
   return lessKittens
 }
