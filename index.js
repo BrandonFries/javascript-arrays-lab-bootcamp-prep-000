@@ -27,7 +27,7 @@ function removeLastKitten(Garfield) {
   var lessKittens = kittens.slice(0, 2);
   return lessKittens
 }
-fucntion removeFirstKitten(Milo) {
+function removeFirstKitten(Milo) {
   var twoKittens = kittens.slice(2, 3);
   return twoKittens
 }
