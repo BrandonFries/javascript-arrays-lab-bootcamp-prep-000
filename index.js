@@ -27,3 +27,7 @@ function removeLastKitten(Garfield) {
   var lessKittens = kittens.slice(0, 2);
   return lessKittens
 }
+fucntion removeLastKitten(Milo) {
+  var twoKittens = kittens.slice(2, 3);
+  return twoKittens
+}
